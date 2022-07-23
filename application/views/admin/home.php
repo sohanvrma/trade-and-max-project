@@ -190,6 +190,7 @@
         <!-- body end -->
 
 <?php include('footer.php')?>
+
 </body>
 
 </html>

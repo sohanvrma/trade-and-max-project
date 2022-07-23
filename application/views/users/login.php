@@ -14,7 +14,7 @@
 <meta property="og:image" content="social-image.png" />
 <meta name="format-detection" content="telephone=no">
 
-<title>MotaAdmin - Bootstrap Admin Dashboard</title>
+<title>Login</title>
 
 <link rel="shortcut icon" type="image/png" href="images/favicon.png" />
 <link href="<?php echo base_url()?>/assets/css/style.css" rel="stylesheet">

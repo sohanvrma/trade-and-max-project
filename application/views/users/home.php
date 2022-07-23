@@ -138,8 +138,7 @@
                                                         <td>HCL Technology ltd</td>
                                                         <td>01 August 2021, 11:00 AM</td>
                                                         <td> RS. 271.00 <br> <sub class="text-success"> open</sub></td>
-                                                        <td class="recent-stats d-flex align-items-center"><i class="fa fa-circle 
-    text-success mr-1"></i>Buy</td>
+                                                        <td class="recent-stats d-flex align-items-center"><i class="fa fa-circle text-success mr-1"></i>Buy</td>
                                                         <td>
 
                                                             <a href="#" class="btn btn-danger shadow btn-xs sharp"><i
@@ -162,8 +161,7 @@
                                                         <td>HCL Technology ltd</td>
                                                         <td>01 August 2021, 3:00 PM</td>
                                                         <td> RS. 272.23 <br> <sub class="text-danger"> close</sub></td>
-                                                        <td class="recent-stats d-flex align-items-center"><i class="fa fa-circle 
-        text-danger mr-1"></i>Sell</td>
+                                                        <td class="recent-stats d-flex align-items-center"><i class="fa fa-circle text-danger mr-1"></i>Sell</td>
                                                         <td>
 
                                                             <a href="#" class="btn btn-danger shadow btn-xs sharp"><i

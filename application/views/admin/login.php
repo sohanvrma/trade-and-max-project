@@ -29,7 +29,7 @@
 <div class="col-xl-12">
 <div class="auth-form">
 <h4 class="text-center mb-4">Sign in your account</h4>
-<form action="https://motaadmin.dexignlab.com/xhtml/index.html">
+<form action="">
 <div class="form-group">
 <label class="mb-1"><strong>Email</strong></label>
 <input type="email" class="form-control" value="hello@example.com">

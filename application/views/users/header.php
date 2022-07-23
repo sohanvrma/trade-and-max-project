@@ -91,28 +91,7 @@
                                     <span class="nav-text">Apps</span>
                                     <span class="badge badge-xs badge-light">10</span>
                                 </a>
-                                <ul aria-expanded="false">
-                                    <li><a href="app-profile.html">Profile</a></li>
-                                    <li><a class="has-arrow" href="javascript:void()" aria-expanded="false">Email</a>
-                                        <ul aria-expanded="false">
-                                            <li><a href="email-compose.html">Compose</a></li>
-                                            <li><a href="email-inbox.html">Inbox</a></li>
-                                            <li><a href="email-read.html">Read</a></li>
-                                        </ul>
-                                    </li>
-                                    <li><a href="app-calender.html">Calendar</a></li>
-                                    <li><a class="has-arrow" href="javascript:void()" aria-expanded="false">Shop</a>
-                                        <ul aria-expanded="false">
-                                            <li><a href="ecom-product-grid.html">Product Grid</a></li>
-                                            <li><a href="ecom-product-list.html">Product List</a></li>
-                                            <li><a href="ecom-product-detail.html">Product Details</a></li>
-                                            <li><a href="ecom-product-order.html">Order</a></li>
-                                            <li><a href="ecom-checkout.html">Checkout</a></li>
-                                            <li><a href="ecom-invoice.html">Invoice</a></li>
-                                            <li><a href="ecom-customers.html">Customers</a></li>
-                                        </ul>
-                                    </li>
-                                </ul>
+                              
                             </li>
                             <li><a class="has-arrow" href="javascript:void()" aria-expanded="false">
                                     <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -131,12 +110,12 @@
                                     <span class="badge badge-xs badge-light">06</span>
                                 </a>
                                 <ul aria-expanded="false">
-                                    <li><a href="chart-flot.html">Flot</a></li>
-                                    <li><a href="chart-morris.html">Morris</a></li>
-                                    <li><a href="chart-chartjs.html">Chartjs</a></li>
-                                    <li><a href="chart-chartist.html">Chartist</a></li>
-                                    <li><a href="chart-sparkline.html">Sparkline</a></li>
-                                    <li><a href="chart-peity.html">Peity</a></li>
+                                    <li><a href="">Flot</a></li>
+                                    <li><a href="">Morris</a></li>
+                                    <li><a href="">Chartjs</a></li>
+                                    <li><a href="">Chartist</a></li>
+                                    <li><a href="">Sparkline</a></li>
+                                    <li><a href="">Peity</a></li>
                                 </ul>
                             </li>
                         </ul>
@@ -285,7 +264,7 @@
 
 
                     <li class="nav-item">
-                        <a class="nav-link" href="report.html">
+                        <a class="nav-link" href="">
                             <svg id="icon-table" xmlns="http://www.w3.org/2000/svg" width="24" height="24"
                                 viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
                                 stroke-linecap="round" stroke-linejoin="round" class="feather feather-server">

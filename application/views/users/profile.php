@@ -14,7 +14,7 @@
     <meta property="og:image" content="social-image.png" />
     <meta name="format-detection" content="telephone=no">
 
-    <title>MotaAdmin - Bootstrap Admin Dashboard</title>
+    <title>profile</title>
     <?php include('head.php')?>
 </head>
 

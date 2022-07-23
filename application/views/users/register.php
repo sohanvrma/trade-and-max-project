@@ -15,7 +15,7 @@
 <meta property="og:image" content="social-image.png" />
 <meta name="format-detection" content="telephone=no">
 
-<title>MotaAdmin - Bootstrap Admin Dashboard</title>
+<title>register</title>
 
 <link rel="shortcut icon" type="image/png" href="images/favicon.png" />
 <link href="<?php echo base_url()?>/assets/css/style.css" rel="stylesheet">
@@ -66,5 +66,4 @@
 <script src="<?php echo base_url()?>/assets/js/deznav-init.js"></script>
 </body>
 
-<!-- Mirrored from motaadmin.dexignlab.com/xhtml/page-register.html by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 03 Jul 2022 04:42:01 GMT -->
 </html>
